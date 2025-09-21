@@ -65,4 +65,4 @@ This was created as a final exam project for the "Web Technologies Basics" cours
 
 ---
 
-*Final project for Web Technologies course - 2021*
+*Final project for "Basics of Web Technologies" course - 1st year of university, spring semester*
